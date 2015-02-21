@@ -1,0 +1,8 @@
+Save entertainment_center.py, fresh_tomatoes.py and media.py in the same folder - example movies.
+Open entertainment_center.py with python by launching idle.
+Select Run
+entertainment_center.py creates and automatically launches an HTML file called fresh_tomatoes.html.
+This HTML file is stored and can be opened from the movies folder you created
+
+Any changes to the Movie Library should be done on the entertainment_center.py file.
+Any changes to the HTML should be done on the fresh_tomatoes.py file
